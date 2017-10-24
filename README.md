@@ -14,4 +14,4 @@ MQTT toy example
 
 ## Remote Brokers
 - [Cloud MQTT](https://www.cloudmqtt.com)
-- [MQTT Dashboard](http://www.mqtt-dashboard.com)
+- [Hive MQ](http://www.mqtt-dashboard.com)
