@@ -9,7 +9,7 @@ MQTT toy example
 
 ## Useful links
 - [MQTTLens](https://chrome.google.com/webstore/detail/mqttlens/hemojaaeigabkbcookmlgmdigohjobjm?hl=en)
-- [IoT MQTT Dashboard](https://play.google.com/store/apps/details?id=com.thn.iotmqttdashboard&hl=en)
+- [IoT MQTT Dashboard android app](https://play.google.com/store/apps/details?id=com.thn.iotmqttdashboard&hl=en)
 - [MQTTInspector iphone app](https://itunes.apple.com/us/app/mqttinspector/id758868884?mt=8)
 
 ## Remote Brokers
